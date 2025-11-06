@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg)](https://github.com/SaYaN00101/SynthMind)
 [![Build Status](https://img.shields.io/badge/Build-Passing-success.svg)](https://github.com/SaYaN00101/SynthMind)
 
-![Project Banner](https://raw.githubusercontent.com/SaYaN00101/SynthMind/main/assets/banner.png)
+![Project Banner](https://github.com/user-attachments/assets/9e5eecf7-c80d-4b8a-8b16-70ddb538379a)
 
 ## 🎯 Overview
 
